@@ -6,4 +6,3 @@
 
 - Kovalev_Pushkareva_project2.ipynb - отчет с выполненным заданием
 - NLP_project2.pdf - техническое задание
-- hacker-news-corpus.zip - данные

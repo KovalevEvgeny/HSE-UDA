@@ -6,4 +6,5 @@
 
 - Kovalev_vitamins.html - отчет с выполненным заданием
 - test.txt - данные
+- first.cxx - файл с построенной грамматикой
 - PrettyOutput.html - вывод парсера

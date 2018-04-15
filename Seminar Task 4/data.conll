@@ -1,0 +1,49 @@
+1	В	_	ADP	_	fPOS=ADP++	2	case	_	_
+2	Кремле	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+3	не	_	PART	_	fPOS=PART++	4	neg	_	_
+4	увидели	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+5	провокации	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|fPOS=NOUN++	4	dobj	_	_
+6	в	_	ADP	_	fPOS=ADP++	7	case	_	_
+7	выборе	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|fPOS=NOUN++	5	nmod	_	_
+8	конкурсантки	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|fPOS=NOUN++	7	dobj	_	_
+9	на	_	ADP	_	fPOS=ADP++	10	case	_	_
+10	«Евровидение»	_	NOUN	_	fPOS=PART++	8	nmod	_	_
+11	.	_	PUNCT	.	fPOS=PUNCT++.	4	punct	_	_
+
+1	Замену	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	4	dobj	_	_
+2	маткапитала	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	1	nmod	_	_
+3	выплатами	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur|fPOS=NOUN++	4	nmod	_	_
+4	обсудят	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+5	в	_	ADP	_	fPOS=ADP++	6	case	_	_
+6	Госдуме	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing|fPOS=NOUN++	4	nmod	_	_
+7	23	_	NUM	_	fPOS=NUM++	4	nmod	_	_
+8	марта	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	7	nmod	_	_
+9	.	_	PUNCT	.	fPOS=PUNCT++.	4	punct	_	_
+
+1	Совет	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing|fPOS=NOUN++	3	nsubj	_	_
+2	Евросоюза	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	1	dobj	_	_
+3	продлил	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+4	антироссийские	_	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur|fPOS=ADJ++	5	amod	_	_
+5	санкции	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur|fPOS=NOUN++	3	dobj	_	_
+6	на	_	ADP	_	fPOS=ADP++	7	case	_	_
+7	полгода	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|fPOS=NOUN++	5	nmod	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	3	punct	_	_
+
+1	Тимошенко	_	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|fPOS=NOUN++	0	ROOT	_	_
+2	заявила,	_	ADP	_	fPOS=ADP++	3	case	_	_
+3	что	_	SCONJ	_	fPOS=SCONJ++	5	mark	_	_
+4	Украиной	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing|fPOS=NOUN++	5	dobj	_	_
+5	управляют	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act|fPOS=VERB++	1	advcl	_	_
+6	извне	_	ADV	_	Degree=Pos|fPOS=ADV++	5	advmod	_	_
+7	.	_	PUNCT	.	fPOS=PUNCT++.	1	punct	_	_
+
+1	Радикалы	_	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur|fPOS=NOUN++	2	nsubj	_	_
+2	зажгли	_	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+3	файеры	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|fPOS=NOUN++	2	dobj	_	_
+4	возле	_	ADP	_	fPOS=ADP++	5	case	_	_
+5	офиса	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	2	nmod	_	_
+6	украинской	_	NOUN	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing|fPOS=ADJ++	5	dobj	_	_
+7	«дочки»	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing|fPOS=NOUN++	6	dobj	_	_
+8	Сбербанка	_	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|fPOS=NOUN++	7	nmod	_	_
+9	.	_	PUNCT	.	fPOS=PUNCT++.	2	punct	_	_
+

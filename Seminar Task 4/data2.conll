@@ -1,0 +1,31 @@
+1	Я	_	PRON	_	fPOS=PRON++	2	nsubj	_	_
+2	купил	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+3	яблоки	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur|fPOS=NOUN++	2	dobj	_	_
+4	и	_	CONJ	_	fPOS=CONJ++	2	cc	_	_
+5	бананы	_	VERB	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur|fPOS=NOUN++	2	conj	_	_
+6	.	_	PUNCT	.	fPOS=PUNCT++.	2	punct	_	_
+
+1	Сумку	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	5	dobj	_	_
+2	и	_	CONJ	_	fPOS=CONJ++	1	cc	_	_
+3	куртку	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing|fPOS=NOUN++	1	conj	_	_
+4	ты	_	PRON	_	fPOS=PRON++	5	nsubj	_	_
+5	оставил	_	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+6	в	_	ADP	_	fPOS=ADP++	7	case	_	_
+7	коридоре	_	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing|fPOS=NOUN++	5	nmod	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	5	punct	_	_
+
+1	Утюгом	_	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing|fPOS=NOUN++	3	nmod	_	_
+2	я	_	PRON	_	fPOS=PRON++	3	nsubj	_	_
+3	глажу	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+4	бельё	_	ADJ	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|fPOS=NOUN++	3	dobj	_	_
+5	.	_	PUNCT	.	fPOS=PUNCT++.	3	punct	_	_
+
+1	Шлю	_	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act|fPOS=VERB++	0	ROOT	_	_
+2	я	_	PRON	_	fPOS=PRON++	1	nsubj	_	_
+3	тебе	_	PRON	_	fPOS=PRON++	1	nmod	_	_
+4	большой	_	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing|fPOS=ADJ++	5	amod	_	_
+5	привет	_	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|fPOS=NOUN++	1	dobj	_	_
+6	и	_	CONJ	_	fPOS=CONJ++	5	cc	_	_
+7	поцелуй	_	ADV	_	Degree=Pos|fPOS=ADV++	5	conj	_	_
+8	.	_	PUNCT	.	fPOS=PUNCT++.	1	punct	_	_
+

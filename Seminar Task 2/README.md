@@ -4,6 +4,6 @@
 
 Описание файлов:
 
-- Kovalev_phones.ipynb - решение задания
+- Kovalev_phones.ipynb - отчет с выполненным заданием
 - phones.txt - тестовые номера
 - phones_result.txt - результаты
